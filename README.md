@@ -8,3 +8,6 @@
 <li>It is used for brute-forcing web applications.</li>
 <li>It discovers hidden directories, parameters in web applications.</li>
 </ul>
+
+<h5>Installation</h5>
+<p>sudo apt install ffuf -y</p>
